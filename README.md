@@ -2,9 +2,13 @@
 This is a simple To-Do List web application that allows users to add and delete tasks. The project is structured using HTML, CSS, and JavaScript.
 
 # Project Structure
-## main.html: Contains the structure of the web page.
-## styles.css: Contains the styles for the web page.
-## scripts.js: Contains the JavaScript code to add and delete tasks.
+
+## main.html
+Contains the structure of the web page.
+## styles.css
+Contains the styles for the web page.
+## scripts.js
+Contains the JavaScript code to add and delete tasks.
 
 # How to Use
 
